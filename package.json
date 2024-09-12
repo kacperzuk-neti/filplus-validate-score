@@ -1,0 +1,24 @@
+{
+  "name": "filplus-validate-score",
+  "version": "1.0.4",
+  "description": "",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "viem": "^2.21.4",
+    "wagmi": "^2.12.9"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.6.2"
+  }
+}
